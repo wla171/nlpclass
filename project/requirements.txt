@@ -1,0 +1,7 @@
+torch
+tensorboardX
+tensorboard
+scikit-learn
+seqeval
+nltk
+transformers

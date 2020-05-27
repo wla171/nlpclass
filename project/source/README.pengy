@@ -1,0 +1,4 @@
+1. Generate SFU test dataset, selecting context from wikipedia and creating question-answer pair
+2. Evaluate F1 and EM score for different models, and analyze for prediction results
+3. Poster design and writing
+4. Contribute to python notobook documentation

@@ -1,0 +1,1370 @@
+{
+	"data": [{
+		"title": "SFU",
+		"paragraphs": [{
+			"context": "Simon Fraser University (SFU) is a public research university in British Columbia, Canada, with three campuses: Burnaby (main campus), Surrey, and Vancouver. The 170-hectare (420-acre) main Burnaby campus on Burnaby Mountain, located 20 kilometres (12 mi) from downtown Vancouver, was established in 1965 and comprises more than 30,000 students and approximately 950 faculty members.",
+			"qas": [{
+				"answers": [{
+					"answer_start": 65,
+					"text": "British Columbia"
+				}, {
+					"answer_start": 65,
+					"text": "British Columbia, Canada"
+				}, {
+					"answer_start": 83,
+					"text": "Canada"
+				}],
+				"question": "Where is SFU located?",
+				"id": "1"
+			},{
+				"answers": [{
+					"answer_start": 96,
+					"text": "three"
+				}, {
+					"answer_start": 96,
+					"text": "three"
+				}, {
+					"answer_start": 96,
+					"text": "three"
+				}],
+				"question": "How many campuses does SFU have?",
+				"id": "2"
+			},{
+				"answers": [{
+					"answer_start": 300,
+					"text": "1965"
+				}, {
+					"answer_start": 300,
+					"text": "1965"
+				}, {
+					"answer_start": 300,
+					"text": "1965"
+				}],
+				"question": "In which year was SFU established?",
+				"id": "3"
+			},{
+				"answers": [{
+					"answer_start": 319,
+					"text": "more than 30,000"
+				}, {
+					"answer_start": 319,
+					"text": "more than 30,000"
+				}, {
+					"answer_start": 319,
+					"text": "more than 30,000"
+				}],
+				"question": "How many students does SFU have?",
+				"id": "4"
+			},{
+				"answers": [{
+					"answer_start": 349,
+					"text": "approximately 950"
+				}, {
+					"answer_start": 349,
+					"text": "approximately 950"
+				}, {
+					"answer_start": 349,
+					"text": "approximately 950"
+				}],
+				"question": "How many faculty members does SFU have?",
+				"id": "5"
+			},{
+				"answers": [{
+					"answer_start": 162,
+					"text": "170-hectare"
+				}, {
+					"answer_start": 162,
+					"text": "170-hectare (420-acre)"
+				}, {
+					"answer_start": 175,
+					"text": "420-acre"
+				}],
+				"question": "How large is the SFU main campus?",
+				"id": "6"
+			},{
+				"answers": [{
+					"answer_start": 208,
+					"text": "Burnaby Mountain"
+				}, {
+					"answer_start": 208,
+					"text": "Burnaby Mountain"
+				}, {
+					"answer_start": 208,
+					"text": "Burnaby Mountain"
+				}],
+				"question": "Where is SFU Burnaby Campus located?",
+				"id": "7"
+			},{
+				"answers": [{
+					"answer_start": 234,
+					"text": "20 kilometres (12 mi)"
+				}, {
+					"answer_start": 234,
+					"text": "20 kilometres"
+				}, {
+					"answer_start": 249,
+					"text": "12 mi"
+				}],
+				"question": "What is the distance between SFU main campus and downtown Vancouver?",
+				"id": "8"
+			},{
+				"answers": [{
+					"answer_start": 35,
+					"text": "public research"
+				}, {
+					"answer_start": 35,
+					"text": "public"
+				}, {
+					"answer_start": 35,
+					"text": "public research university"
+				}],
+				"question": "What kind of university SFU is?",
+				"id": "9"
+			},{
+				"answers": [{
+					"answer_start": 112,
+					"text": "Burnaby (main campus), Surrey, and Vancouver"
+				}, {
+					"answer_start": 112,
+					"text": "Burnaby (main campus), Surrey, and Vancouver"
+				}, {
+					"answer_start": 112,
+					"text": "Burnaby (main campus), Surrey, and Vancouver"
+				}],
+				"question": "What are the names of SFU's three campuses",
+				"id": "10"
+			},{
+				"answers": [{
+					"answer_start": 25,
+					"text": "SFU"
+				}, {
+					"answer_start": 25,
+					"text": "SFU"
+				}, {
+					"answer_start": 25,
+					"text": "SFU"
+				}],
+				"question": "What is the abbreviation for Simon Fraser University?",
+				"id": "11"
+			}]
+		},{
+			"context": "Undergraduate and graduate programs at SFU operate on a year-round, three-semester schedule,[4] and it is the only Canadian university which competes in the National Collegiate Athletic Association (NCAA). In 2015, SFU became the second Canadian university to receive accreditation from the Northwest Commission on Colleges and Universities.[5] To date, SFU faculty and alumni have won 43 fellowships to the Royal Society of Canada, three Rhodes Scholarships and one Pulitzer Prize.[6][7]",
+				"qas": [{
+				"answers": [{
+					"answer_start": 68,
+					"text": "three-semester"
+				}, {
+					"answer_start": 68,
+					"text": "three-semester"
+				}, {
+					"answer_start": 68,
+					"text": "three-semester"
+				}],
+				"question": "How many semesters in a year does SFU have?",
+				"id": "12"
+			},{
+				"answers": [{
+					"answer_start": 209,
+					"text": "2015"
+				}, {
+					"answer_start": 209,
+					"text": "2015"
+				}, {
+					"answer_start": 209,
+					"text": "2015"
+				}],
+				"question": "In which year did SFU receive accreditation from Northwest Commission on Colleges and Universities?",
+				"id": "13"
+			},{
+				"answers": [{
+					"answer_start": 386,
+					"text": "43"
+				}, {
+					"answer_start": 386,
+					"text": "43"
+				}, {
+					"answer_start": 386,
+					"text": "43"
+				}],
+				"question": "How many Royal Society of Canada fellowships have SFU faculty and alumni won?",
+				"id": "14"
+			},{
+				"answers": [{
+					"answer_start": 433,
+					"text": "three"
+				}, {
+					"answer_start": 433,
+					"text": "three"
+				}, {
+					"answer_start": 433,
+					"text": "three"
+				}],
+				"question": "How many Rhodes Scholarships have SFU faculty and alumni won?",
+				"id": "15"
+			},{
+				"answers": [{
+					"answer_start": 486,
+					"text": "one"
+				}, {
+					"answer_start": 486,
+					"text": "one"
+				}, {
+					"answer_start": 486,
+					"text": "one"
+				}],
+				"question": "How many Pulitzer Prize have SFU faculty and alumni won?",
+				"id": "16"
+			}]
+		},{
+			"context": "Simon Fraser University was founded upon the recommendation of a 1962 report entitled Higher Education in British Columbia and a Plan for the Future, by John B. Macdonald. He recommended the creation of a new university in the Lower Mainland and the British Columbia Legislature gave formal assent on March 1, 1963 for the establishment of the university in Burnaby.[8] The university was named after Simon Fraser, a North West Company fur trader and explorer. The original name of the school was Fraser University, but was changed because the initials \"FU\" evoked the profane phrase \"fuck you\".[9][10]",
+				"qas": [{
+				"answers": [{
+					"answer_start": 153,
+					"text": "John B. Macdonald"
+				}, {
+					"answer_start": 153,
+					"text": "John B. Macdonald"
+				}, {
+					"answer_start": 153,
+					"text": "John B. Macdonald"
+				}],
+				"question": "Who wrote the report titled Higher Education in British Columbia and a Plan for the Future?",
+				"id": "17"
+			},{
+				"answers": [{
+					"answer_start": 153,
+					"text": "John B. Macdonald"
+				}, {
+					"answer_start": 153,
+					"text": "John B. Macdonald"
+				}, {
+					"answer_start": 153,
+					"text": "John B. Macdonald"
+				}],
+				"question": "Who recommended the creation of a new university in the Lower Mainland?",
+				"id": "18"
+			},{
+				"answers": [{
+					"answer_start": 63,
+					"text": "a 1962 report entitled Higher Education in British Columbia and a Plan for the Future"
+				}, {
+					"answer_start": 86,
+					"text": "Higher Education in British Columbia and a Plan for the Future"
+				}, {
+					"answer_start": 63,
+					"text": "a 1962 report"
+				}],
+				"question": "What lead to the founding of Simon Fraser University?",
+				"id": "19"
+			},{
+				"answers": [{
+					"answer_start": 227,
+					"text": "Lower Mainland"
+				}, {
+					"answer_start": 227,
+					"text": "Lower Mainland"
+				}, {
+					"answer_start": 227,
+					"text": "Lower Mainland"
+				}],
+				"question": "Where did John B. Macdonald recommend to create a new university?",
+				"id": "20"
+			},{
+				"answers": [{
+					"answer_start": 401,
+					"text": "Simon Fraser, a North West Company fur trader and explorer"
+				}, {
+					"answer_start": 401,
+					"text": "Simon Fraser"
+				}, {
+					"answer_start": 415,
+					"text": "a North West Company fur trader and explorer"
+				}],
+				"question": "Who was Simon Fraser University named after?",
+				"id": "21"
+			},{
+				"answers": [{
+					"answer_start": 415,
+					"text": "a North West Company fur trader and explorer"
+				}, {
+					"answer_start": 415,
+					"text": "a North West Company fur trader and explorer"
+				}, {
+					"answer_start": 415,
+					"text": "a North West Company fur trader and explorer"
+				}],
+				"question": "Who was Simon Fraser?",
+				"id": "22"
+			},{
+				"answers": [{
+					"answer_start": 497,
+					"text": "Fraser University"
+				}, {
+					"answer_start": 497,
+					"text": "Fraser University"
+				}, {
+					"answer_start": 497,
+					"text": "Fraser University"
+				}],
+				"question": "What was the original name of Simon Fraser University?",
+				"id": "23"
+			},{
+				"answers": [{
+					"answer_start": 540,
+					"text": "the initials \"FU\" evoked the profane phrase \"fuck you\""
+				}, {
+					"answer_start": 540,
+					"text": "the initials \"FU\" evoked the profane phrase \"fuck you\""
+				}, {
+					"answer_start": 540,
+					"text": "the initials \"FU\" evoked the profane phrase \"fuck you\""
+				}],
+				"question": "What was the reason for Simon Fraser University to change its name?",
+				"id": "24"
+			}]
+		},{
+			"context": "In May of the same year, Gordon M. Shrum was appointed as the university's first chancellor. From a variety of sites that were offered, Shrum recommended to the provincial government that the summit of Burnaby Mountain, 365 meters above sea level, be chosen for the new university. Architects Arthur Erickson and Geoffrey Massey won a competition to design the university, and construction began in the spring of 1964. The campus faces northwest over Burrard Inlet. Eighteen months later, on September 9, 1965, the university began its first semester[8] with 2,500 students.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 25,
+					"text": "Gordon M. Shrum"
+				}, {
+					"answer_start": 25,
+					"text": "Gordon M. Shrum"
+				}, {
+					"answer_start": 25,
+					"text": "Gordon M. Shrum"
+				}],
+				"question": "Who was the first chancellor of Simon Fraser University?",
+				"id": "25"
+			},{
+				"answers": [{
+					"answer_start": 25,
+					"text": "Gordon M. Shrum"
+				}, {
+					"answer_start": 25,
+					"text": "Gordon M. Shrum"
+				}, {
+					"answer_start": 136,
+					"text": "Shrum"
+				}],
+				"question": "Who recommended to build Simon Fraser University on Burnaby Mountain?",
+				"id": "26"
+			},{
+				"answers": [{
+					"answer_start": 220,
+					"text": "365 meters"
+				}, {
+					"answer_start": 220,
+					"text": "365 meters above sea level"
+				}, {
+					"answer_start": 220,
+					"text": "365 meters above sea level"
+				}],
+				"question": "What is the elevation of Burnaby Mountain?",
+				"id": "27"
+			},{
+				"answers": [{
+					"answer_start": 293,
+					"text": "Arthur Erickson and Geoffrey Massey"
+				}, {
+					"answer_start": 293,
+					"text": "Arthur Erickson"
+				}, {
+					"answer_start": 313,
+					"text": "Geoffrey Massey"
+				}],
+				"question": "Who designed Simon Fraser University?",
+				"id": "28"
+			},{
+				"answers": [{
+					"answer_start": 396,
+					"text": "in the spring of 1964"
+				}, {
+					"answer_start": 413,
+					"text": "1964"
+				}, {
+					"answer_start": 413,
+					"text": "1964"
+				}],
+				"question": "When did the construction for Simon Fraser University began?",
+				"id": "29"
+			},{
+				"answers": [{
+					"answer_start": 559,
+					"text": "2,500"
+				}, {
+					"answer_start": 559,
+					"text": "2,500"
+				}, {
+					"answer_start": 559,
+					"text": "2,500"
+				}],
+				"question": "How many students did Simon Fraser University have in its first semester?",
+				"id": "30"
+			},{
+				"answers": [{
+					"answer_start": 466,
+					"text": "Eighteen months"
+				}, {
+					"answer_start": 466,
+					"text": "Eighteen months"
+				}, {
+					"answer_start": 466,
+					"text": "Eighteen months"
+				}],
+				"question": "How long did the construction of Simon Fraser University take?",
+				"id": "31"
+			},{
+				"answers": [{
+					"answer_start": 492,
+					"text": "September 9, 1965"
+				}, {
+					"answer_start": 492,
+					"text": "September 9, 1965"
+				}, {
+					"answer_start": 492,
+					"text": "September 9, 1965"
+				}],
+				"question": "What is the date Simon Fraser University began its first semester?",
+				"id": "32"
+			}]
+		},{
+			"context": "Simon Fraser University has placed in post-secondary school rankings. In the 2019 Academic Ranking of World Universities rankings, the university ranked 301–400 in the world and 13–18 in Canada.[29] The 2020 Times Higher Education World University Rankings placed Simon Fraser 251–300 in the world, and 11–14 in Canada.[31] The 2020 QS World University Rankings ranked the university 314th in the world and thirteenth in Canada.[30] ",
+				"qas": [{
+				"answers": [{
+					"answer_start": 153,
+					"text": "301\u2013400"
+				}, {
+					"answer_start": 153,
+					"text": "301\u2013400"
+				}, {
+					"answer_start": 153,
+					"text": "301\u2013400"
+				}],
+				"question": "What is Simon Fraser University's ranking in the world in 2019 Academic Ranking of World Universities rankings?",
+				"id": "33"
+			},{
+				"answers": [{
+					"answer_start": 178,
+					"text": "13\u201318"
+				}, {
+					"answer_start": 178,
+					"text": "13\u201318"
+				}, {
+					"answer_start": 178,
+					"text": "13\u201318"
+				}],
+				"question": "What is Simon Fraser University's ranking in Canada in 2019 Academic Ranking of World Universities rankings?",
+				"id": "34"
+			},{
+				"answers": [{
+					"answer_start": 384,
+					"text": "314th"
+				}, {
+					"answer_start": 384,
+					"text": "314th"
+				}, {
+					"answer_start": 384,
+					"text": "314th"
+				}],
+				"question": "What is Simon Fraser University's ranking in the world in 2020 QS World University Rankings",
+				"id": "35"
+			},{
+				"answers": [{
+					"answer_start": 407,
+					"text": "thirteenth"
+				}, {
+					"answer_start": 407,
+					"text": "thirteenth"
+				}, {
+					"answer_start": 407,
+					"text": "thirteenth"
+				}],
+				"question": "What is Simon Fraser University's ranking in Canada in 2020 QS World University Rankings",
+				"id": "36"
+			}]
+		},{
+			"context": "SFU also works with other universities and agencies to operate joint research facilities. These include Bamfield Marine Station, a major centre for teaching and research in marine biology; TRIUMF, a powerful cyclotron used in subatomic physics and chemistry research. SFU is also a partner institution in Great Northern Way Campus Ltd in Vancouver. In March 2006, SFU approved an affiliation agreement with a private college for international students to be housed adjacent to its Burnaby campus. This new college named Fraser International College, which was in the Multi Tenant Facility (now renamed as \"Discovery 2 Building\") located in Discovery Parks Trust SFU site,[40] is now moved into \"Discovery 1 Building\" after Discovery Parks Trust returned the building to Simon Fraser University. ",
+				"qas": [{
+				"answers": [{
+					"answer_start": 129,
+					"text": "a major centre for teaching and research in marine biology"
+				}, {
+					"answer_start": 129,
+					"text": "a major centre for teaching and research in marine biology"
+				}, {
+					"answer_start": 129,
+					"text": "a major centre for teaching and research in marine biology"
+				}],
+				"question": "What is Bamfield Marine Station?",
+				"id": "37"
+			},{
+				"answers": [{
+					"answer_start": 189,
+					"text": "TRIUMF"
+				}, {
+					"answer_start": 189,
+					"text": "TRIUMF"
+				}, {
+					"answer_start": 189,
+					"text": "TRIUMF"
+				}],
+				"question": "What is the name of a powerful cyclotron used in subatomic physics and chemistry research?",
+				"id": "38"
+			},{
+				"answers": [{
+					"answer_start": 349,
+					"text": "In March 2006"
+				}, {
+					"answer_start": 349,
+					"text": "In March 2006"
+				}, {
+					"answer_start": 349,
+					"text": "In March 2006"
+				}],
+				"question": "When did SFU approve an affiliation agreement with a private college for international students to be housed adjacent to its Burnaby campus?",
+				"id": "39"
+			},{
+				"answers": [{
+					"answer_start": 520,
+					"text": "Fraser International College"
+				}, {
+					"answer_start": 520,
+					"text": "Fraser International College"
+				}, {
+					"answer_start": 520,
+					"text": "Fraser International College"
+				}],
+				"question": "What is the name of the college located in Discovery 1 Building?",
+				"id": "40"
+			}]
+		},{
+			"context": "SFU's three campuses are all accessible by public transit. The Vancouver campus is a block away from the Waterfront SkyTrain station while the Surrey campus is adjacent to the Surrey Central SkyTrain station. The Burnaby campus is linked to the Production Way–University, Burquitlam, and Sperling–Burnaby Lake SkyTrain stations by frequent shuttle bus service.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 83,
+					"text": "a block away"
+				}, {
+					"answer_start": 83,
+					"text": "a block"
+				}, {
+					"answer_start": 83,
+					"text": "a block away"
+				}],
+				"question": "How far is the Vancouver campus from Waterfront SkyTrain station?",
+				"id": "41"
+			},{
+				"answers": [{
+					"answer_start": 176,
+					"text": "Surrey Central SkyTrain station"
+				}, {
+					"answer_start": 176,
+					"text": "Surrey Central SkyTrain station"
+				}, {
+					"answer_start": 176,
+					"text": "Surrey Central"
+				}],
+				"question": "Which SkyTrain station is Surrey campus adjacent to?",
+				"id": "42"
+			},{
+				"answers": [{
+					"answer_start": 209,
+					"text": "The Burnaby campus"
+				}, {
+					"answer_start": 213,
+					"text": "Burnaby campus"
+				}, {
+					"answer_start": 213,
+					"text": "Burnaby"
+				}],
+				"question": "Which campus in linked to Burquitlam SkyTrain station by bus service?",
+				"id": "43"
+			},{
+				"answers": [{
+					"answer_start": 0,
+					"text": "SFU's three campuses"
+				}, {
+					"answer_start": 25,
+					"text": "all"
+				}, {
+					"answer_start": 6,
+					"text": "three campuses"
+				}],
+				"question": "Which SFU campuses are accessible by public transit?",
+				"id": "44"
+			}]
+		},{
+			"context": "The main campus is located atop Burnaby Mountain, at an elevation of 365 metres, overlooking the Burrard inlet to the north. All major departments in the university are housed at the Burnaby campus. The library on the main campus is called the W. A. C. Bennett Library, named after the Social Credit Premier of B.C. who established it. The campus also has two gym-complexes, named the Lorne-Davies Complex and Chancellor's Gym. An international-sized swimming pool is located within the Lorne-Davies Complex. Since the relocation of the School of Contemporary Arts to the Woodward's location, the Burnaby campus production theatre has been vacant. Located within the heart of the campus is the Museum of Archaeology and Ethnology and three art galleries. The campus has been awarded numerous architectural awards over the years, including the Gold Medal for Lieutenant-Governor 2009 Awards in Architecture and the 2007 Royal Architectural Institute of Canada's Prix du XXe siècle.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 176,
+					"text": "at the Burnaby campus"
+				}, {
+					"answer_start": 179,
+					"text": "the Burnaby campus"
+				}, {
+					"answer_start": 183,
+					"text": "Burnaby campus"
+				}],
+				"question": "Where are all major departments in the university housed?",
+				"id": "45"
+			},{
+				"answers": [{
+					"answer_start": 240,
+					"text": "the W. A. C. Bennett Library"
+				}, {
+					"answer_start": 244,
+					"text": "W. A. C. Bennett Library"
+				}, {
+					"answer_start": 244,
+					"text": "W. A. C. Bennett Library"
+				}],
+				"question": "What is the library on the main campus called?",
+				"id": "46"
+			},{
+				"answers": [{
+					"answer_start": 356,
+					"text": "two"
+				}, {
+					"answer_start": 356,
+					"text": "two"
+				}, {
+					"answer_start": 356,
+					"text": "two"
+				}],
+				"question": "How many gym-complexes does Burnaby campus have?",
+				"id": "47"
+			},{
+				"answers": [{
+					"answer_start": 476,
+					"text": "within the Lorne-Davies Complex"
+				}, {
+					"answer_start": 483,
+					"text": "the Lorne-Davies Complex"
+				}, {
+					"answer_start": 487,
+					"text": "Lorne-Davies Complex"
+				}],
+				"question": "Where is the swimming pool in Burnaby campus located?",
+				"id": "48"
+			},{
+				"answers": [{
+					"answer_start": 839,
+					"text": "the Gold Medal for Lieutenant-Governor 2009 Awards in Architecture and the 2007 Royal Architectural Institute of Canada's Prix du XXe si\u00e8cle"
+				}, {
+					"answer_start": 843,
+					"text": "Gold Medal for Lieutenant-Governor 2009 Awards in Architecture and the 2007 Royal Architectural Institute of Canada's Prix du XXe si\u00e8cle"
+				}, {
+					"answer_start": 843,
+					"text": "Gold Medal for Lieutenant-Governor 2009 Awards in Architecture and the 2007 Royal Architectural Institute of Canada's Prix du XXe si\u00e8cle"
+				}],
+				"question": "What architectural awards has the Burnaby campus been awarded?",
+				"id": "49"
+			}]
+		},{
+			"context": "The largest of the three SFU Libraries, the W.A.C. Bennett Library, is based on the SFU Burnaby campus, and holds over 2 million published books, 63,000 e-journal subscriptions, and 6,000 print subscriptions. Along with the UniverCity development agreement, residents of UniverCity are also allowed to borrow books from the library.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 114,
+					"text": "over 2 million"
+				}, {
+					"answer_start": 119,
+					"text": "2 million"
+				}, {
+					"answer_start": 119,
+					"text": "2 million"
+				}],
+				"question": "How many books does W.A.C. Bennett Library hold?",
+				"id": "50"
+			},{
+				"answers": [{
+					"answer_start": 146,
+					"text": "63,000"
+				}, {
+					"answer_start": 146,
+					"text": "63,000"
+				}, {
+					"answer_start": 146,
+					"text": "63,000"
+				}],
+				"question": "How many e-journal subscriptions does W.A.C. Bennett Library have?",
+				"id": "51"
+			},{
+				"answers": [{
+					"answer_start": 258,
+					"text": "residents of UniverCity"
+				}, {
+					"answer_start": 258,
+					"text": "residents of UniverCity"
+				}, {
+					"answer_start": 258,
+					"text": "residents of UniverCity"
+				}],
+				"question": "Under UniverCity development agreement, who are allowed to borrow books from the W.A.C. Bennett Library?",
+				"id": "52"
+			},{
+				"answers": [{
+					"answer_start": 40,
+					"text": "the W.A.C. Bennett Library"
+				}, {
+					"answer_start": 40,
+					"text": "the W.A.C. Bennett Library"
+				}, {
+					"answer_start": 44,
+					"text": "W.A.C. Bennett Library"
+				}],
+				"question": "Which one is the largest of the three SFU Libraries?",
+				"id": "53"
+			}]
+		},{
+			"context": "Simon Fraser University's art galleries include: SFU Gallery on the Burnaby campus (established 1970), Audain Gallery at the Goldcorp Centre for the Arts in Vancouver (established 2010), and Teck Gallery at Harbour Centre in Vancouver (established 1989). SFU Galleries stewards the Simon Fraser University Art Collection, that includes, in its holdings of over 5,500 works, significant regional and national art works spanning the last century.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 96,
+					"text": "1970"
+				}, {
+					"answer_start": 96,
+					"text": "1970"
+				}, {
+					"answer_start": 96,
+					"text": "1970"
+				}],
+				"question": "When is SFU Gallery on the Burnaby campus established?",
+				"id": "54"
+			},{
+				"answers": [{
+					"answer_start": 118,
+					"text": "at the Goldcorp Centre for the Arts in Vancouver"
+				}, {
+					"answer_start": 118,
+					"text": "at the Goldcorp Centre for the Arts"
+				}, {
+					"answer_start": 154,
+					"text": "in Vancouver"
+				}],
+				"question": "Where is Audain Gallery located?",
+				"id": "55"
+			},{
+				"answers": [{
+					"answer_start": 356,
+					"text": "over 5,500"
+				}, {
+					"answer_start": 356,
+					"text": "over 5,500"
+				}, {
+					"answer_start": 361,
+					"text": "5,500"
+				}],
+				"question": "How many art works does SFU galleries' Art Collection hold?",
+				"id": "56"
+			},{
+				"answers": [{
+					"answer_start": 191,
+					"text": "Teck Gallery"
+				}, {
+					"answer_start": 191,
+					"text": "Teck Gallery"
+				}, {
+					"answer_start": 196,
+					"text": "Teck"
+				}],
+				"question": "Which SFU art gallery is located in Harbour Centre?",
+				"id": "57"
+			}]
+		},{
+			"context": "UniverCity is an urban community located on top of Burnaby Mountain, adjacent to Simon Fraser University. It has won several awards for sustainable planning and development.[52] Envisioned in 1963 by Arthur Erickson and Geoffrey Massey, the area adjacent to the University was not officially rezoned for development until 30 years later. Development of the community began in early 2000, when Simon Fraser University commenced construction on a new residential and commercial area occupying approximately 81 hectares (200 acres) adjacent to the campus. As of September 2011, approximately 3000 people live in UniverCity. The main commercial district on University High Street now houses restaurants, stores, and a 20,000 square foot Nester's Market. A new elementary school, University Highlands Elementary, opened on September 1, 2010. Several new residential developments are currently in progress, including the construction of a 12-storey highrise in the heart of UniverCity.[53]",
+				"qas": [{
+				"answers": [{
+					"answer_start": 373,
+					"text": "in early 2000"
+				}, {
+					"answer_start": 373,
+					"text": "in early 2000"
+				}, {
+					"answer_start": 376,
+					"text": "early 2000"
+				}],
+				"question": "When did the development of UniverCity begin?",
+				"id": "58"
+			},{
+				"answers": [{
+					"answer_start": 505,
+					"text": "81 hectares (200 acres)"
+				}, {
+					"answer_start": 505,
+					"text": "81 hectares"
+				}, {
+					"answer_start": 518,
+					"text": "200 acres"
+				}],
+				"question": "What is the area of UniverCity?",
+				"id": "59"
+			},{
+				"answers": [{
+					"answer_start": 575,
+					"text": "approximately 3000"
+				}, {
+					"answer_start": 589,
+					"text": "3000"
+				}, {
+					"answer_start": 589,
+					"text": "3000"
+				}],
+				"question": "How many people live in UniverCity?",
+				"id": "60"
+			},{
+				"answers": [{
+					"answer_start": 653,
+					"text": "University High Street"
+				}, {
+					"answer_start": 653,
+					"text": "University High Street"
+				}, {
+					"answer_start": 653,
+					"text": "University High Street"
+				}],
+				"question": "Where is Nester's Market located?",
+				"id": "61"
+			},{
+				"answers": [{
+					"answer_start": 818,
+					"text": "September 1, 2010"
+				}, {
+					"answer_start": 818,
+					"text": "September 1, 2010"
+				}, {
+					"answer_start": 818,
+					"text": "September 1, 2010"
+				}],
+				"question": "When will University Highlands Elementary open?",
+				"id": "62"
+			}]
+		},{
+			"context": "The Surrey campus consists of two buildings located in Whalley / City Centre, Surrey. The main building is part of Central City, an architectural complex adjacent to the Surrey Central SkyTrain station. It was established in 2002 to absorb the students and programs of the former Technical University of British Columbia, which was closed by the provincial government. It has since expanded to house the Surrey operations of other SFU programs. The Central City complex that houses the campus was designed by architect Bing Thom and opened in 2006. The Fraser Library,[54] a branch of the SFU Library, is located on this campus, and is the only branch with a games room. It also loans equipment to students in the School of Interactive Arts and Technology.[55][56]",
+				"qas": [{
+				"answers": [{
+					"answer_start": 230,
+					"text": "to absorb the students and programs of the former Technical University of British Columbia"
+				}, {
+					"answer_start": 230,
+					"text": "to absorb the students and programs of the former Technical University of British Columbia"
+				}, {
+					"answer_start": 230,
+					"text": "to absorb the students and programs of the former Technical University of British Columbia"
+				}],
+				"question": "For what purpose was Surrey established?",
+				"id": "63"
+			},{
+				"answers": [{
+					"answer_start": 222,
+					"text": "in 2002"
+				}, {
+					"answer_start": 222,
+					"text": "in 2002"
+				}, {
+					"answer_start": 225,
+					"text": "2002"
+				}],
+				"question": "When is Surrey campus established?",
+				"id": "64"
+			},{
+				"answers": [{
+					"answer_start": 519,
+					"text": "Bing Thom"
+				}, {
+					"answer_start": 519,
+					"text": "Bing Thom"
+				}, {
+					"answer_start": 519,
+					"text": "Bing Thom"
+				}],
+				"question": "Who designed the Central City complex that houses the Surrey campus?",
+				"id": "65"
+			},{
+				"answers": [{
+					"answer_start": 549,
+					"text": "The Fraser Library"
+				}, {
+					"answer_start": 549,
+					"text": "The Fraser Library"
+				}, {
+					"answer_start": 549,
+					"text": "The Fraser Library"
+				}],
+				"question": "Which SFU library has a games room?",
+				"id": "66"
+			}]
+		},{
+			"context": "The Vancouver campus was launched in the 1980s with a store-front classroom. It was the first urban university classroom in British Columbia. A significant portion of funding for the building of the campus came from the private sector. The Vancouver campus has four buildings spread across the downtown core: SFU Harbour Centre, the Morris J. Wosk Centre for Dialogue, the Segal Graduate School of Business and SFU Contemporary Arts at the restored Woodward's Building. The original campus building at Harbour Centre, a rebuilt heritage department store, officially opened on May 5, 1989. Today, the entire campus serves more than 70,000 people annually. Approximately 10,000 are graduate and undergraduate students enrolled in courses and degree programs based downtown. The Belzberg Library[59] is based at the Vancouver campus.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 261,
+					"text": "four"
+				}, {
+					"answer_start": 261,
+					"text": "four"
+				}, {
+					"answer_start": 261,
+					"text": "four"
+				}],
+				"question": "How many buildings does SFU Vancouver campus have?",
+				"id": "67"
+			},{
+				"answers": [{
+					"answer_start": 655,
+					"text": "Approximately 10,000"
+				}, {
+					"answer_start": 669,
+					"text": "10,000"
+				}, {
+					"answer_start": 669,
+					"text": "10,000"
+				}],
+				"question": "How many students are enrolled in SFU Vancouver campus?",
+				"id": "68"
+			},{
+				"answers": [{
+					"answer_start": 772,
+					"text": "The Belzberg Library"
+				}, {
+					"answer_start": 772,
+					"text": "The Belzberg Library"
+				}, {
+					"answer_start": 772,
+					"text": "The Belzberg Library"
+				}],
+				"question": "Which library is located at the Vancouver campus?",
+				"id": "69"
+			},{
+				"answers": [{
+					"answer_start": 34,
+					"text": "in the 1980s"
+				}, {
+					"answer_start": 34,
+					"text": "in the 1980s"
+				}, {
+					"answer_start": 41,
+					"text": "1980s"
+				}],
+				"question": "When was the Vancouver campus established?",
+				"id": "70"
+			}]
+		},{
+			"context": "The student newspaper The Peak was established shortly after the university opened and is circulated throughout the University. CJSF-FM radio is the school's radio station, broadcasting from 90.1 FM to Burnaby and surrounding communities, online at www.cjsf.ca or on cable at 93.9 FM. The Simon Fraser Student Society provides funding for over 300 campus clubs. Various campus events include the annual Terry Fox Run, Gung Haggis Fat Choy, Clubs Week, and other multi-cultural events.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 22,
+					"text": "The Peak"
+				}, {
+					"answer_start": 22,
+					"text": "The Peak"
+				}, {
+					"answer_start": 22,
+					"text": "The Peak"
+				}],
+				"question": "What is the name of the student newspaper in SFU?",
+				"id": "71"
+			},{
+				"answers": [{
+					"answer_start": 128,
+					"text": "CJSF-FM radio"
+				}, {
+					"answer_start": 128,
+					"text": "CJSF-FM radio"
+				}, {
+					"answer_start": 128,
+					"text": "CJSF-FM"
+				}],
+				"question": "What is the SFU's school radio station?",
+				"id": "72"
+			},{
+				"answers": [{
+					"answer_start": 339,
+					"text": "over 300"
+				}, {
+					"answer_start": 339,
+					"text": "over 300"
+				}, {
+					"answer_start": 344,
+					"text": "300"
+				}],
+				"question": "How many campus clubs does SFU have?",
+				"id": "73"
+			},{
+				"answers": [{
+					"answer_start": 392,
+					"text": "the annual Terry Fox Run, Gung Haggis Fat Choy, Clubs Week, and other multi-cultural events"
+				}, {
+					"answer_start": 392,
+					"text": "the annual Terry Fox Run, Gung Haggis Fat Choy, Clubs Week, and other multi-cultural events"
+				}, {
+					"answer_start": 392,
+					"text": "the annual Terry Fox Run, Gung Haggis Fat Choy, Clubs Week, and other multi-cultural events"
+				}],
+				"question": "What campus events does SFU have?",
+				"id": "74"
+			}]
+		},{
+			"context": "The Clan is the first and currently the only athletic program from outside of the United States that competes in the National Collegiate Athletic Association (NCAA).[63] Before joining the NCAA, the Clan used to compete in both the Canadian Interuniversity Sports (CIS, now U Sports) and the National Association of Intercollegiate Athletics (NAIA). In total, SFU has 15 varsity sport teams and 300 athletes. All varsity teams compete for their respective NCAA national championships, except for the Women's Wrestling team who competes for the Women's College Wrestling Association's national championship.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 0,
+					"text": "The Clan"
+				}, {
+					"answer_start": 0,
+					"text": "The Clan"
+				}, {
+					"answer_start": 0,
+					"text": "The Clan"
+				}],
+				"question": "Which athletic program in SFU competes in the National Collegiate Athletic Association (NCAA)?",
+				"id": "75"
+			},{
+				"answers": [{
+					"answer_start": 368,
+					"text": "15"
+				}, {
+					"answer_start": 368,
+					"text": "15"
+				}, {
+					"answer_start": 368,
+					"text": "15"
+				}],
+				"question": "How many varsity sport teams does SFU have?",
+				"id": "76"
+			},{
+				"answers": [{
+					"answer_start": 395,
+					"text": "300"
+				}, {
+					"answer_start": 395,
+					"text": "300"
+				}, {
+					"answer_start": 395,
+					"text": "300"
+				}],
+				"question": "How many athletes does SFU have?",
+				"id": "77"
+			},{
+				"answers": [{
+					"answer_start": 496,
+					"text": "the Women's Wrestling team"
+				}, {
+					"answer_start": 496,
+					"text": "the Women's Wrestling team"
+				}, {
+					"answer_start": 500,
+					"text": "Women's Wrestling team"
+				}],
+				"question": "Which sport team in SFU does not compete for NCAA national championship?",
+				"id": "78"
+			}]
+		},{
+			"context": "SFU has won the NAIA NACDA Director's Cup five times, among others.[64][failed verification] On Friday, July 10, 2009, the NCAA announced that it had accepted SFU as a Division II member and would begin after a two-year transition period. SFU later competed in the Great Northwest Athletic Conference.[65] It is the first Canadian university to be accepted as a member of the NCAA at any level.[66] In 2012, the Clan was accepted as the first international full member of the NCAA.[63]",
+				"qas": [{
+				"answers": [{
+					"answer_start": 42,
+					"text": "five"
+				}, {
+					"answer_start": 42,
+					"text": "five"
+				}, {
+					"answer_start": 42,
+					"text": "five"
+				}],
+				"question": "How many times has SFU won the NAIA NACDA Director's Cup?",
+				"id": "79"
+			},{
+				"answers": [{
+					"answer_start": 93,
+					"text": "On Friday, July 10, 2009"
+				}, {
+					"answer_start": 104,
+					"text": "July 10, 2009"
+				}, {
+					"answer_start": 113,
+					"text": "2009"
+				}],
+				"question": "When is SFU accepted as a NCAA Division II member?",
+				"id": "80"
+			},{
+				"answers": [{
+					"answer_start": 239,
+					"text": "SFU"
+				}, {
+					"answer_start": 239,
+					"text": "SFU"
+				}, {
+					"answer_start": 0,
+					"text": "SFU"
+				}],
+				"question": "Which is the first Canadian university to be accepted as a member of the NCAA ?",
+				"id": "81"
+			},{
+				"answers": [{
+					"answer_start": 399,
+					"text": "In 2012"
+				}, {
+					"answer_start": 399,
+					"text": "In 2012"
+				}, {
+					"answer_start": 402,
+					"text": "2012"
+				}],
+				"question": "When is SFU accepted as a NCAA full member?",
+				"id": "82"
+			}]
+		},{
+			"context": "The convocation is composed of all faculty members, senators, and graduates (degree holders, including honorary alumni) of the university. Its main function is to elect the 4 convocation senators. Convocation ceremonies are held twice annually to confer degrees (including honorary degrees) as well as award diplomas and certificates.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 160,
+					"text": "to elect the 4 convocation senators"
+				}, {
+					"answer_start": 160,
+					"text": "to elect the 4 convocation senators"
+				}, {
+					"answer_start": 163,
+					"text": "elect the 4 convocation senators"
+				}],
+				"question": "What is the function of convocation?",
+				"id": "83"
+			},{
+				"answers": [{
+					"answer_start": 229,
+					"text": "twice annually"
+				}, {
+					"answer_start": 229,
+					"text": "twice annually"
+				}, {
+					"answer_start": 229,
+					"text": "twice annually"
+				}],
+				"question": "How often are convocation ceremonies held?",
+				"id": "84"
+			},{
+				"answers": [{
+					"answer_start": 31,
+					"text": "all faculty members, senators, and graduates (degree holders, including honorary alumni) of the university"
+				}, {
+					"answer_start": 31,
+					"text": "all faculty members, senators, and graduates (degree holders, including honorary alumni) of the university"
+				}, {
+					"answer_start": 31,
+					"text": "all faculty members, senators, and graduates"
+				}],
+				"question": "What is convocation composed of?",
+				"id": "85"
+			},{
+				"answers": [{
+					"answer_start": 244,
+					"text": "to confer degrees (including honorary degrees) as well as award diplomas and certificates"
+				}, {
+					"answer_start": 244,
+					"text": "to confer degrees (including honorary degrees) as well as award diplomas and certificates"
+				}, {
+					"answer_start": 247,
+					"text": "confer degrees (including honorary degrees) as well as award diplomas and certificates"
+				}],
+				"question": "What is the purpose of holding convocation ceremonies?",
+				"id": "86"
+			}]
+		},{
+			"context": "The senate is composed of the chancellor, the president, vice-president, academic, vice-president, research, deans of faculties, dean of graduate studies, dean of continuing studies, associate vice-president, academic, university librarian, registrar (as senate secretary), 14 student members, 28 faculty members, and 4 convocation members (who are not faculty members). The senate is chaired by the president. The academic governance of the university is vested in the senate.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 274,
+					"text": "14"
+				}, {
+					"answer_start": 274,
+					"text": "14"
+				}, {
+					"answer_start": 274,
+					"text": "14"
+				}],
+				"question": "How many student members are included in the senate?",
+				"id": "87"
+			},{
+				"answers": [{
+					"answer_start": 294,
+					"text": "28"
+				}, {
+					"answer_start": 294,
+					"text": "28"
+				}, {
+					"answer_start": 294,
+					"text": "28"
+				}],
+				"question": "How many faculty members are included in the senate?",
+				"id": "88"
+			},{
+				"answers": [{
+					"answer_start": 396,
+					"text": "the president"
+				}, {
+					"answer_start": 396,
+					"text": "the president"
+				}, {
+					"answer_start": 400,
+					"text": "president"
+				}],
+				"question": "Who is the chair of the senate?",
+				"id": "89"
+			},{
+				"answers": [{
+					"answer_start": 466,
+					"text": "the senate"
+				}, {
+					"answer_start": 466,
+					"text": "the senate"
+				}, {
+					"answer_start": 470,
+					"text": "senate"
+				}],
+				"question": "Who is responsible for the  academic governance of the university?",
+				"id": "90"
+			}]
+		},{
+			"context": "Terry Fox was a notable alumnus of SFU. Diagnosed with bone cancer, which resulted in the amputation of his leg, the 18-year-old kinesiology major set out to run across Canada in the Marathon of Hope to raise funding and awareness about cancer. As a result of Terry Fox's legacy, running for charitable causes is now integrated within communities worldwide. He also inspired friend Rick Hansen's Man in Motion world tour by wheelchair. In 2001, SFU conferred an honorary degree to Betty Fox, mother of Terry Fox and honorary chair of the Terry Fox Foundation.",
+				"qas": [{
+				"answers": [{
+					"answer_start": 0,
+					"text": "Terry Fox"
+				}, {
+					"answer_start": 0,
+					"text": "Terry Fox"
+				}, {
+					"answer_start": 0,
+					"text": "Terry Fox"
+				}],
+				"question": "Who is the notable alumnus of SFU that raised funding and awareness about cancer?",
+				"id": "91"
+			},{
+				"answers": [{
+					"answer_start": 280,
+					"text": "running for charitable causes is now integrated within communities worldwide"
+				}, {
+					"answer_start": 280,
+					"text": "running for charitable causes is now integrated within communities worldwide"
+				}, {
+					"answer_start": 280,
+					"text": "running for charitable causes is now integrated within communities worldwide"
+				}],
+				"question": "What is Terry Fox's legacy?",
+				"id": "92"
+			},{
+				"answers": [{
+					"answer_start": 55,
+					"text": "bone cancer"
+				}, {
+					"answer_start": 55,
+					"text": "bone cancer"
+				}, {
+					"answer_start": 55,
+					"text": "bone cancer"
+				}],
+				"question": "What was Terry Fox diagnosed with?",
+				"id": "93"
+			},{
+				"answers": [{
+					"answer_start": 375,
+					"text": "friend Rick Hansen"
+				}, {
+					"answer_start": 382,
+					"text": "Rick Hansen"
+				}, {
+					"answer_start": 382,
+					"text": "Rick Hansen"
+				}],
+				"question": "Who was inspired by Terry Fox to have Man in Motion world tour by wheelchair?",
+				"id": "94"
+			}]
+		},{
+			"context": "Its first use as a film set was for the 1972 science fiction film The Groundstar Conspiracy, in which the entire campus complex was used. It was then followed by The Fly II, which has scenes shot inside and outside the Burnaby campus. The campus also appeared in the 1989 movie American Boyfriends, set in 1965, with the buildings dressed to look like they were still under construction. The campus served as a high-tech corporate setting in the film Antitrust. Recently, in addition to other Vancouver-area landmarks, many parts of the Burnaby campus were used for the filming of the movie The 6th Day as well as Agent Cody Banks. The 2007 film Personal Effects, was filmed in the newly constructed Blusson Hall at the Burnaby campus. In early 2008, the Burnaby campus was again used for filming, this time for The Day the Earth Stood Still (2008 Remake).",
+				"qas": [{
+				"answers": [{
+					"answer_start": 66,
+					"text": "The Groundstar Conspiracy"
+				}, {
+					"answer_start": 66,
+					"text": "The Groundstar Conspiracy"
+				}, {
+					"answer_start": 36,
+					"text": "the 1972 science fiction film The Groundstar Conspiracy"
+				}],
+				"question": "Which film firstly took SFU as a film set?",
+				"id": "95"
+			},{
+				"answers": [{
+					"answer_start": 632,
+					"text": "The 2007 film Personal Effects"
+				}, {
+					"answer_start": 646,
+					"text": "Personal Effects"
+				}, {
+					"answer_start": 646,
+					"text": "Personal Effects"
+				}],
+				"question": "Which film was filmed in Blusson Hall at the Burnaby campus?",
+				"id": "96"
+			},{
+				"answers": [{
+					"answer_start": 736,
+					"text": "In early 2008"
+				}, {
+					"answer_start": 736,
+					"text": "In early 2008"
+				}, {
+					"answer_start": 745,
+					"text": "2008"
+				}],
+				"question": "When was Burnaby campus used for filming The Day the Earth Stood Still?",
+				"id": "97"
+			}]
+		},{
+			"context": "In 2017, Simon Fraser University received a sponsored research income (external sources of research funds) of C$138.964 million, the 17th highest in Canada. In the same year, the university's faculty averaged a sponsored research income of $156,300, while graduates averaged $30,900.[37]",
+				"qas": [{
+				"answers": [{
+					"answer_start": 110,
+					"text": "C$138.964 million"
+				}, {
+					"answer_start": 110,
+					"text": "C$138.964 million"
+				}, {
+					"answer_start": 110,
+					"text": "C$138.964 million"
+				}],
+				"question": "How much research income did Simon Fraser University receive in 2017?",
+				"id": "98"
+			},{
+				"answers": [{
+					"answer_start": 240,
+					"text": "$156,300"
+				}, {
+					"answer_start": 240,
+					"text": "$156,300"
+				}, {
+					"answer_start": 240,
+					"text": "$156,300"
+				}],
+				"question": "How much is the faculty averaged research income in SFU?",
+				"id": "99"
+			},{
+				"answers": [{
+					"answer_start": 275,
+					"text": "$30,900"
+				}, {
+					"answer_start": 275,
+					"text": "$30,900"
+				}, {
+					"answer_start": 275,
+					"text": "$30,900"
+				}],
+				"question": "How much is the graduates averaged research income in SFU?",
+				"id": "100"
+			}]
+		}]
+	}],
+    "version": "1.1"
+}

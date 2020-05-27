@@ -1,0 +1,5 @@
+1. Data training for AlBERT, BERT, DistilBERT, XLNet models on GPU Server 
+2. Create function to read the Google Natural Question dataset and import the SQuAD baseline code
+3. Create preprocessing method of replacing synonyms 
+4. Understanding AlBERT, BERT, DistilBERT Model
+5. Baseline research and python notebook write up
