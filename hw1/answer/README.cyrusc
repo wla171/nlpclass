@@ -1,0 +1,5 @@
+1. implemented the iterative segmentor base on the HW1 alogrithm provided
+2. implemented the iterative segmentor with unigram logic
+3. implemented jelinck-mercer smoothing in the code to combine unigram and bigram model
+4. learn and tune the parameters for the lambda and reduce missing word function
+5. updating the python notebook

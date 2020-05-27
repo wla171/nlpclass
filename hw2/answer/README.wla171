@@ -1,0 +1,4 @@
+1. Implemented baseline Retrofitting model
+2. tune the parameter alpha and beta
+3. Tried Add, BalAdd, Mul, BalMul method from context word paper
+4. notebook write-up 

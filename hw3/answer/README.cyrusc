@@ -1,0 +1,4 @@
+1. Implemented the baseline model with option 1, creating a character representation of word and concat with embedding vector
+2. Learn to improve the baseline mode with option1, tried with data aggregation and more epoches result can go up to 78.9, but changing hyperparater is not allowed in this assignement
+3. instead of changing hyperparater, scaling the loss value which allows us to achieve better result up to 78.7
+4. Python notebook writing

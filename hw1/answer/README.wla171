@@ -1,0 +1,6 @@
+1. implemented the baseline iterative segmentor base on the pseudo-code. 
+2. extended the segmenter with bigram model to score word segmentation candidates.
+3. implemented jelinck-mercer smoothing to combine unigram, bigram and unknown word.
+4. tune smoothing parameters
+5. assess test output
+
